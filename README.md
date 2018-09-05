@@ -3,3 +3,4 @@
 This is an example repository with the Design System app installed.
 
 Each time a PR is merged a new version of the preview website will be built.
+The preview url is design-system.io/home
