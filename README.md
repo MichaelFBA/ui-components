@@ -1,3 +1,3 @@
 # ui-components
 
-Test PR
+This is an example repository for a design system
