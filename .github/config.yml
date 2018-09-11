@@ -1,0 +1,7 @@
+design_system:
+  # Components directory
+  components:
+    # Location of your components directory
+    - directory: components
+    # CSS compiler (if applicable) (scss)
+    - css_compiler: scss
