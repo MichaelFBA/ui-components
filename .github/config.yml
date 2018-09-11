@@ -6,4 +6,4 @@ design_system:
     # CSS compiler (if applicable) (scss)
     - css_compiler: scss
     # Entry Point
-    - components/index.scss
+    - styles_entrypoint: components/index.scss
