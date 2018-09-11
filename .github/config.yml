@@ -5,3 +5,5 @@ design_system:
     - directory: components
     # CSS compiler (if applicable) (scss)
     - css_compiler: scss
+    # Entry Point
+    - components/index.scss
