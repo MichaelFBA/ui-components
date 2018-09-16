@@ -3,7 +3,7 @@ design_system:
   # Location of your components directory
   directory: /components
   
-  # CSS compiler (css, sass, less)
+  # CSS compiler (css, sass)
   css_compiler: sass
   
   # CSS Entry Point
