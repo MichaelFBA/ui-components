@@ -9,6 +9,9 @@ design_system:
   # CSS Entry Point
   styles_entrypoint: components/index.scss
   
+  # JS Entry Point
+  js_entrypoint: components/index.js
+  
   # Components
   components:
     - buttons
