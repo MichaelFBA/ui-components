@@ -1,10 +1,16 @@
 design_system:
-  # Components directory
+  
+  # Location of your components directory
+  directory: /components
+  
+  # CSS compiler (css, sass, less)
+  css_compiler: sass
+  
+  # CSS Entry Point
+  styles_entrypoint: components/index.scss
+  
+  # Components
   components:
-    # Location of your components directory
-    directory: components
-    # CSS compiler (if applicable) (sass)
-    css_compiler: sass
-    # Entry Point
-    styles_entrypoint: components/index.scss
+    - buttons
+    - typography
     
