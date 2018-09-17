@@ -16,4 +16,5 @@ design_system:
   components:
     - buttons
     - typography
+    - card
     
