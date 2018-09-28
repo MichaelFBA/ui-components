@@ -12,6 +12,9 @@ design_system:
   # JS Entry Point
   js_entrypoint: components/index.js
   
+  # Landing Page for Develop Section
+  developer_landing: develop.md
+  
   # Components
   components:
     - buttons
